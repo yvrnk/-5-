@@ -16,3 +16,5 @@
 Відкрийте в програмному середовищі main.py та запустіть.
 В результаті мають бути такі вихідні данні.
 ![image](https://github.com/yvrnk/-5-/assets/153688015/ffa5e6a3-788a-4045-bbef-29d80e2fd645)
+![image](https://github.com/yvrnk/-5-/assets/153688015/6f4f1a20-f6de-4ea5-8faa-11161c471515)
+
